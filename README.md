@@ -2,7 +2,6 @@
 ## [Visscher's Method](https://www.asc.tuwien.ac.at/~juengel/simulations/schroedinger/Visscher_method.html)
 
 - We consider the following dimensionless representation of the time-dependent Schrödinger equation (TDSE), where the relevant physical scales are expressed in [Hartree units](https://en.wikipedia.org/wiki/Hartree_atomic_units) ($\hbar = m_{e} = a_{0} = 1$).
-- 
 
 $$
     i\frac{\partial \Psi}{\partial t} = \left(\frac{1}{2}{\nabla}^{2} + \mathbb{V}\right)\Psi 
